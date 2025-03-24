@@ -59,9 +59,9 @@ Garantir a segurança dos dados envolve estratégias de backup para recuperaçã
 ✔ Evitar clicar em links suspeitos.  
 ✔ Realizar backups regularmente.  
 
----
+### Mantenha-se seguro e proteja suas informações! 🔒
 
-### 📌 Mantenha-se seguro e proteja suas informações! 🔒
+---
 
 # 📌 Códigos Maliciosos (Malware)
 
