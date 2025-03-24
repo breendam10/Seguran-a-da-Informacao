@@ -63,3 +63,60 @@ Garantir a segurança dos dados envolve estratégias de backup para recuperaçã
 
 ### 📌 Mantenha-se seguro e proteja suas informações! 🔒
 
+# 📌 Códigos Maliciosos (Malware)
+
+## 1. O que são Códigos Maliciosos?
+Códigos maliciosos, ou **malwares**, são programas desenvolvidos para causar danos, roubar informações ou obter acesso não autorizado a sistemas.
+
+---
+
+## 2. Principais Tipos de Códigos Maliciosos
+
+- **Vírus**: Se anexa a arquivos executáveis e precisa ser ativado para se espalhar.
+- **Worms**: Se replicam automaticamente, sem necessidade de um programa hospedeiro.
+- **Trojan (Cavalo de Troia)**: Disfarçado como software legítimo, mas executa ações maliciosas.
+- **Spyware**: Coleta dados do usuário sem consentimento (senhas, histórico, etc.).
+- **Adware**: Exibe anúncios sem permissão, podendo prejudicar o desempenho do sistema.
+- **Ransomware**: Sequestra dados e exige pagamento para liberação.
+- **Rootkits**: Escondem a presença de outros malwares, dificultando a detecção.
+- **Keyloggers**: Registram tudo o que o usuário digita, incluindo senhas.
+
+---
+
+## 3. Modos de Infecção
+
+- Downloads de fontes não confiáveis.
+- Anexos de e-mails suspeitos.
+- Sites falsos (**phishing**).
+- Mídias removíveis infectadas (pendrives, HDs externos).
+- Exploração de falhas de segurança em softwares.
+
+---
+
+## 4. Sintomas de Infecção
+
+- Lentidão anormal do sistema.
+- Pop-ups constantes e inesperados.
+- Arquivos desaparecendo ou sendo corrompidos.
+- Programas abrindo sozinhos.
+- Atividades suspeitas em contas online.
+
+---
+
+## 5. Prevenção e Combate
+
+✔ Utilização de **antivírus** e **antimalwares** atualizados.  
+✔ Atualizações regulares do **sistema operacional** e **aplicativos**.  
+✔ Evitar clicar em links e baixar arquivos de **fontes desconhecidas**.  
+✔ Realizar **backups frequentes** dos dados importantes.  
+✔ Uso de **firewalls** e **autenticação em dois fatores** (2FA).  
+
+---
+
+## 6. Exemplos Famosos de Malware
+
+- **ILOVEYOU (2000)**: Vírus que causou bilhões em prejuízos.
+- **WannaCry (2017)**: Ransomware que afetou sistemas em todo o mundo.
+- **Stuxnet**: Worm sofisticado usado para sabotar instalações nucleares.
+
+📢 **Fique atento e proteja seus dispositivos contra ameaças cibernéticas!** 🔒
